@@ -1,1 +1,1 @@
-# srcserver__go
+# example server go
