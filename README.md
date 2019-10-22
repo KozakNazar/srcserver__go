@@ -1,1 +1,1 @@
-# example server go
+# example TCP-server (Go)
